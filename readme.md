@@ -79,12 +79,12 @@ PI3 (Expected): Save model checkpoints
 PI4 (Expected): Compare multiple experiments easily  
 PI5 (Advanced): Generate summary tables and charts for ISMIR figures  
 
-Objective: Develop and Evaluate a Supervised BPM Estimation Model
-PI1 (Basic): Implement baseline neural network architecture in PyTorch (regression)
-PI2 (Basic): Train model on GiantSteps training split and verify convergence
-PI3 (Expected): Implement standard tempo evaluation metrics (accuracy, MAE)
-PI4 (Expected): Perform hyperparameter tuning via Optuna and report impact on validation performance
-PI5 (Expected): Plot training and val loss over epochs
+Objective: Develop and Evaluate a Supervised BPM Estimation Model  
+PI1 (Basic): Implement baseline neural network architecture in PyTorch (regression)  
+PI2 (Basic): Train model on GiantSteps training split and verify convergence  
+PI3 (Expected): Implement standard tempo evaluation metrics (accuracy, MAE)  
+PI4 (Expected): Perform hyperparameter tuning via Optuna and report impact on validation performance  
+PI5 (Expected): Plot training and val loss over epochs  
 
 
 ## Related Work:
